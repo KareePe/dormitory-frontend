@@ -7,6 +7,7 @@ const Blog = () => {
     <>
       <Link href="/blog/1">blog1</Link>
       <Link href="/blog/2">blog2</Link>
+      <Link href="/blog/3">blog2</Link>
     </>
   );
 };
